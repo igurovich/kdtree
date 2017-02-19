@@ -4,8 +4,8 @@ import java.util.Comparator;
 
 
 /**
- *  The {@code Point} class is a data type to encapsulate a
- *  two-dimensional point with real-value coordinates.
+ *  The {@code Point} class is a data type to represent a
+ *  two-dimensional point with real-value euclidean coordinates.
  *
  */
 public final class Point {
