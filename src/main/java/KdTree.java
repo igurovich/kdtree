@@ -1,5 +1,3 @@
-package com.igorgurovich;
-
 /**
  * Created by igorgurovich on 2/18/17.
  */

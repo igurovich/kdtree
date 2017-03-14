@@ -1,5 +1,3 @@
-package com.igorgurovich;
-
 import java.util.Comparator;
 
 
