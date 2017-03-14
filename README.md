@@ -1,6 +1,6 @@
-# 2-dimensional  spatial indexing using KdTree
+# 2-dimensional spatial indexing using KdTree
 
-KdTree collection is simplified implementation of KdTree, which supports the following operations:
+KdTree collection is simplified implementation of kd-tree (https://en.wikipedia.org/wiki/K-d_tree). It supports the following operations:
 
 1.  Create a new, empty collection.
 2. Add a single point (x,y) to the collection.
@@ -8,7 +8,9 @@ KdTree collection is simplified implementation of KdTree, which supports the fol
 to the query point.
 
 
-See KdTreeTest for examples. Use
+See KdTreeTest for examples. 
+
+Use
 
 ```
 mvn clean test 
